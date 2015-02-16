@@ -8,7 +8,8 @@ Since this is a future project and I like to learn new things every time I so so
 
 
 ## Techniques
-To select text we can use the `window.getSelection().toString()`. See [Mozilla Docs](https://developer.mozilla.org/en-US/docs/Web/API/Window.getSelection): 
+* To select text we can use the `window.getSelection().toString()`. See [Mozilla Docs](https://developer.mozilla.org/en-US/docs/Web/API/Window.getSelection): 
+* Web Compnents for the UI: http://webcomponents.org/
 
 ## Interaction
  * To mark text
