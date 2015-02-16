@@ -5,3 +5,7 @@ http://dev.mendeley.com/methods/?shell#introduction
 
 ## future
 Since this is a future project and I like to learn new things every time I so something I have decided to use "future" tools. Lets call it ES6. On the server I will use [babel](https://babeljs.io/) and cliente (not sure yet) [aurelia](http://aurelia.io/). 
+
+
+## Techniques
+To select text we can use the `window.getSelection().toString()`. See [Mozilla Docs](https://developer.mozilla.org/en-US/docs/Web/API/Window.getSelection): 
