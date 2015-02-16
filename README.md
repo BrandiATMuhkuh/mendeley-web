@@ -9,3 +9,12 @@ Since this is a future project and I like to learn new things every time I so so
 
 ## Techniques
 To select text we can use the `window.getSelection().toString()`. See [Mozilla Docs](https://developer.mozilla.org/en-US/docs/Web/API/Window.getSelection): 
+
+## Interaction
+ * To mark text
+  * Mark a text
+  * Click the mark button
+ * To add a note
+  * Click add note
+  * Click somewhere on the text
+  * Note opens and note symbol will be added
